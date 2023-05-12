@@ -8,8 +8,6 @@ body{
     background-color:aliceblue;
 }
 section{
-    padding: 5%;
-    background-color: grey;
     text-align: center;
 }
 .mid-div{
@@ -28,5 +26,7 @@ table, th, td {
     margin-right: auto;
   }
   img{
-    width: 100%;
+    width: 70%;
+    position: relative;
+    left: 15%;
   }
