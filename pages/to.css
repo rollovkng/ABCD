@@ -1,0 +1,36 @@
+body{
+    margin: 0 0 0 0;
+  }
+  section{
+    text-align: center;
+  }
+  .mid-div{
+    text-align: center;
+    margin: 0 0 0 0;
+    background-color: #E4F9F5;
+    width: 75%;
+    position: absolute;
+    left: 13%;
+    top: 60%;
+    border-radius: 20px;
+  }
+  img{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    border-radius: 12px;
+  }
+  button{
+  background-color:cornflowerblue;
+  border-radius: 4px;
+  margin-left: 4px;
+  margin-right: 4px;
+  }
+  button:hover {
+  background-color: white;
+  color: blue;
+  }
+  h5{
+    margin-top: 0px;
+  }
+  
